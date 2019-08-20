@@ -1,5 +1,5 @@
 # Fake News Detection using Deep Nerual Networks
-#### (https://anirudh42.github.io/Fake-News-Detection/)
+
 This project is part of a challenge which can be found at http://www.fakenewschallenge.org/
 ### By Vyas Anirudh Akundy & Atish Harish Telang Patil
 
