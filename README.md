@@ -1,4 +1,4 @@
-# Fake News Detection using Deep Nerual Networks
+# Fake News Detection using Deep Neural Networks
 
 This project is part of a challenge which can be found at http://www.fakenewschallenge.org/
 ### By Vyas Anirudh Akundy & Atish Harish Telang Patil
